@@ -1,0 +1,5 @@
+{
+  "name": "Ingredient Scanner AI",
+  "description": "An AI-powered app to scan product ingredients, identify harmful substances, and provide a simple health summary based on international safety standards. Empowering consumers to make informed choices.",
+  "requestFramePermissions": []
+}
